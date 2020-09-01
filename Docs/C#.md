@@ -4,3 +4,4 @@
 - [Metanit](https://metanit.com/sharp) - Metanit
 - [.NET Core 101](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw/playlists) - Coureses  .NET Core 101
 - [Codewars](https://www.codewars.com) - Training
+- [Public API Lists](https://github.com/public-api-lists/public-api-lists) - Public API
