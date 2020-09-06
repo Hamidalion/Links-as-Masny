@@ -2,4 +2,5 @@
 
 # JavaScript# Usefull links 
 
-- [Teach JS](https://jgthms.com/javascript-in-14-minutes) - JavaScript in 14 minutes
+- [Teach JS](https://jgthms.com/javascript-in-14-minutes) - JavaScript in 14 minutes.
+- [LearnJS](https://learn.javascript.ru/) - Modern JavaScript tutorial.
