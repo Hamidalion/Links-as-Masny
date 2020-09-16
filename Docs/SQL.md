@@ -1,6 +1,6 @@
 ![Иллюстрация к проекту](https://github.com/Hamidalion/RepoPicture/blob/master/sql-logo.png)
 
-# SQL# Usefull links 
+# SQL#
 
 - [Dawnload SSMS](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) - Download SQL Server Management Studio
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - Install SQL Server 2019 from Docker
