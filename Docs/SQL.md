@@ -14,4 +14,8 @@ docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Pass@Word1" -p 21143:1433 --name s
 ### 📚 Material to study
 - [SqlDBM](https://app.sqldbm.com/SQLServer/Draft/) - Interactive SqlDBM
 - [UT_VideoLesson](https://www.youtube.com/playlist?list=PL47zejIkBQvTJqvh9ZtNn01zwJ2lGXk-E) - SQL for beginners
-- [SQL relationships](https://zametkinapolyah.ru/zametki-o-mysql/chast-3-2-vidy-svyazej-mezhdu-tablicami-v-baze-dannyx-svyazi-v-relyacionnyx-bazax-dannyx-otnosheniya-kortezhi-atributy.html) - Types of relationships between tables in a database.
+- [SQL relationships](https://zametkinapolyah.ru/zametki-o-mysql/chast-3-2-vidy-svyazej-mezhdu-tablicami-v-baze-dannyx-svyazi-v-relyacionnyx-bazax-dannyx-otnosheniya-kortezhi-atributy.html) - Types of relationships between relational tables in a database.
+```
+- [One to many relationship](https://metanit.com/sharp/entityframework/3.7.php)
+
+
