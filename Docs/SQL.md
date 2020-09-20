@@ -10,5 +10,8 @@ docker pull mcr.microsoft.com/mssql/server              Create images Microsoft 
 docker rmi $(docker images -f dangling=true -q)         Del unused images
 docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Pass@Word1" -p 21143:1433 --name sql19-23t -v sqlvolume:/var/opt/mssql -d mcr.microsoft.com/mssql/server:2019-CU5-ubuntu-18.04
 ```
+
+### 📚 Material to study
 - [SqlDBM](https://app.sqldbm.com/SQLServer/Draft/) - Interactive SqlDBM
 - [UT_VideoLesson](https://www.youtube.com/playlist?list=PL47zejIkBQvTJqvh9ZtNn01zwJ2lGXk-E) - SQL for beginners
+- [SQL relationships](https://zametkinapolyah.ru/zametki-o-mysql/chast-3-2-vidy-svyazej-mezhdu-tablicami-v-baze-dannyx-svyazi-v-relyacionnyx-bazax-dannyx-otnosheniya-kortezhi-atributy.html) - Types of relationships between tables in a database.
