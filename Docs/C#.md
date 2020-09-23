@@ -1,3 +1,5 @@
+![Иллюстрация к проекту](https://github.com/Hamidalion/RepoPicture/blob/master/C.png)
+
 # C# Usefull links 
 
 - [Docs.microsoft.com](https://docs.microsoft.com/ru-ru/dotnet) - Microsoft Documentation Repository
